@@ -9,6 +9,6 @@ for(let i = 0 ; i<arr.length ; i++){
         }
     }
 }
-if(count <= 2){
+if(count == 2){
     console.log(arr[i] ,"is a prime number ");
 }
